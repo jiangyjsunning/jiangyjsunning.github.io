@@ -10,7 +10,7 @@
 ##  俱乐部会举行：跑步，骑行，打球（乒乓球，羽毛球，气排球，台球，高尔夫球，保龄球），滑翔伞，美食探索， 爬山，征友见面，参加各项公益活动等等。
  ## （声明：各项活动参与者自行评估自身健康状况选择性参与，自行购买意外保险。本俱乐部不对参与者进行任何担保，自行防范欺诈行为，以防上当受骗!）
  
-![Image](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=a86e1439c711728b24208470a995a8ab/908fa0ec08fa513d5ff9f776376d55fbb3fbd9c3.jpg)
+![Image](images/个个乐俱乐部报名.png)
 ![sunflower](images/2d81d309b7ce279a06b3fd06ec8f9780.jpeg)
  
 ## Welcome to GitHub Pages
