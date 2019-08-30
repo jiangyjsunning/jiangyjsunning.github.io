@@ -13,3 +13,5 @@
 ![Image](images/个个乐俱乐部报名1.png)
 ![Image](images/简介1.png)
 
+# 来吧！我们在等你加入享受多姿多彩的生活！
+![Image](images/骑车.jpg)
