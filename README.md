@@ -15,3 +15,4 @@
 
 # 来吧！我们在等你加入享受多姿多彩的生活！
 ![Image](images/骑车.jpg)
+![Image](images/跑步3.jpg)
