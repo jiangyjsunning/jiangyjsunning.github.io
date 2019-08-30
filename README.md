@@ -18,3 +18,6 @@
 ![Image](images/跑步3.jpg)
 ![Image](images/爬山2.jpg)
 ![Image](images/timg5.jpg)
+![Image](images/美食1.jpg)
+![Image](images/美食1.jpg)
+![Image](images/义诊.jpg)
