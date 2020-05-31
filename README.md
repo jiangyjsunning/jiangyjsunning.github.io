@@ -28,7 +28,7 @@
 
 # 即将举行的活动通知：
 <body>
-<font color=red>我是红色</font>
+ <p><font color=red>我是红色</font></p>
 
 
 <font color=#00ffff size=3>null</font>
