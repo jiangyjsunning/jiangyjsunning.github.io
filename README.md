@@ -22,3 +22,4 @@
 ## 等等，多种活动丰富多彩，丰满你的人生！
 ## 别忘了我们还有健康服务赠送哦！指导我们自己成为自己的最好医生！！
 ![Image](images/义诊.jpg)
+<a target="_blank" href="https://www.amazon.cn/b?_encoding=UTF8&tag=88029-23&linkCode=ur2&linkId=88eac60a7b293d8de4b3767b67019f6e&camp=536&creative=3200&node=2127215051">食品</a><img src="//ir-cn.amazon-adsystem.com/e/ir?t=88029-23&l=ur2&o=28" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
