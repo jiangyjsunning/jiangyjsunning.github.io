@@ -28,10 +28,7 @@
 
 # 即将举行的活动通知：
 
-
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+<span style="color:red"></span>
 
 
 活动内容：活动区域广西南宁东盟经济技术开发区，国家级民族医药众创空间自助养生熏脚1小时，爬山鸟瞰休闲。含午餐。人均费用150元/人。
