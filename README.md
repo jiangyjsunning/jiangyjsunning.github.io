@@ -28,7 +28,7 @@
 
 # 即将举行的活动通知：
 
-<span style="color: rgb(255, 0, 0); font-family: &quot;Microsoft YaHei&quot;; font-size: 14px; text-indent: 28px; white-space: normal;">紧急修复了 UMEditor 的 xss 漏洞，请下载最新版更新</span>
+
 
 
 活动内容：活动区域广西南宁东盟经济技术开发区，国家级民族医药众创空间自助养生熏脚1小时，爬山鸟瞰休闲。含午餐。人均费用150元/人。
